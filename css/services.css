@@ -1,0 +1,197 @@
+section {
+    padding: 5px 60px;
+}
+
+body {
+    color: rgb(54, 56, 58);
+    background-color: rgb(241, 240, 240);
+    margin-bottom: 150px;
+    font-family: "Open Sans", sans-serif;
+}
+
+body div{
+    margin: 3px;
+    background-color: rgb(255, 255, 255);
+    }
+
+p {
+    line-height: 1.5; 
+}
+
+/*--->>>кнопка назад<<<---*/
+
+.back {
+        position:fixed;
+        top:20%;
+        left:0;
+        margin-top:-80px;
+        z-index:999;
+        border-radius: 0 8px 8px 0;
+    }
+.back a{
+        display:block;
+    }
+.back a{
+        overflow: hidden;
+        text-decoration: none;
+        font-size:20px;
+        color:#fff;
+        background:rgb(104, 235, 169);
+        height: 40px;
+        width: 65px;
+        line-height:40px;
+        text-align:center;
+        display:block;
+        -webkit-transition:all 0.6s ease;
+        -moz-transition:all 0.6s ease;
+        transition:all 0.6s ease;
+        border-radius: 0 8px 8px 0;
+    }
+.back a:hover{
+        width:150px;
+        background: rgb(5, 158, 82);
+         
+    }
+
+/*--->>>Кнопка вверх<<<---*/
+
+.up {
+    position:fixed;
+    top:30%;
+    left:0;
+    margin-top:-80px;
+    z-index:999;
+    border-radius: 0 8px 8px 0;
+}
+.up a{
+    display:block;
+}
+.up a{
+    overflow: hidden;
+    text-decoration: none;
+    font-size:20px;
+    color:#fff;
+    background:rgb(16, 143, 79);
+    height: 40px;
+    width: 65px;
+    line-height:40px;
+    text-align:center;
+    display:block;
+    -webkit-transition:all 0.6s ease;
+    -moz-transition:all 0.6s ease;
+    transition:all 0.6s ease;
+    border-radius: 0 8px 8px 0;
+}
+.up a:hover{
+    width:150px;
+    background: rgb(18, 56, 37);
+}
+
+
+.border {
+    border: 5px solid rgb(253, 253, 253);
+    border-radius: 25px 25px 25px 25px;
+}
+
+.line {
+    font-size: 20px;
+    font-weight: 700;
+    padding-top: 1em;
+    border-bottom: 1px groove rgb(54, 56, 58);
+}
+
+
+/*--->>>>Блоки продуктов<<<<---*/
+
+.contract {
+    background-image: url(..//img/contract.jpg);
+    background-size: cover;
+    height: 20rem;
+    border: 5px solid rgb(253, 253, 253);
+    border-radius: 25px 25px 0px 0px;
+}
+
+h4.why {
+    position: relative;
+    top: 13rem;
+    left: 1rem;
+    font-size: 150%;
+    color: rgb(54, 56, 58);
+    font-weight: 700; 
+}
+
+
+h4.why_report {
+    position: relative;
+    top: 1rem;
+    left: 1rem;
+    font-size: 150%;
+    color: rgb(54, 56, 58);
+    font-weight: 700; 
+}
+
+.why_insurance {
+    position: relative;
+    top: 1rem;
+    left: 40rem;
+    font-size: 150%;
+    color: rgb(54, 56, 58);
+    font-weight: 700; 
+}
+
+.container {
+    padding-left: 1rem;
+}
+
+
+.report {
+    background-image: url(..//img/otchet.jpg);
+    background-size: cover;
+    height: 20rem;
+    border: 5px solid rgb(253, 253, 253);
+    border-radius: 25px 25px 0px 0px;
+}
+
+
+.security {
+    background-image: url(..//img/security.jpg);
+    background-size: cover;
+    height: 20rem;
+    border: 5px solid rgb(253, 253, 253);
+    border-radius: 25px 25px 0px 0px;
+}
+
+.insurance {
+    background-image: url(..//img/inshurance.jpg);
+    background-size: cover;
+    height: 20rem;
+    border: 5px solid rgb(253, 253, 253);
+    border-radius: 25px 25px 0px 0px;
+}
+
+
+/*--->>>>кнопка заказать<<<<---*/
+
+.button {
+    position: relative;
+    top: 2rem;
+    left: 40rem;
+    margin: 5rem;
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 0.5rem 14rem 0.5rem 1rem;
+    border-radius: 3px;
+    background: rgb(121, 223, 169);
+    box-shadow: 0 -3px rgb(104, 235, 169) inset;
+    transition: 0.2s;
+  } 
+  .button:hover { background: rgb(5, 158, 82); }
+  .button_sales:active {
+    background: rgb(66, 172, 117);
+    box-shadow: 0 3px rgb(37, 80, 59) inset;
+  }
+  
+  .outbutton {
+      height: 5rem;
+  }

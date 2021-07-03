@@ -1,0 +1,808 @@
+@charset "UTF-8";
+
+/* open-sans-300 - latin_cyrillic */
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    src: url("../fonts/open-sans-v20-latin_cyrillic-300.eot");
+    /* IE9 Compat Modes */
+    src: local(""), url("../fonts/open-sans-v20-latin_cyrillic-300.eot?#iefix") format("embedded-opentype"), url("../fonts/open-sans-v20-latin_cyrillic-300.woff2") format("woff2"), url("../fonts/open-sans-v20-latin_cyrillic-300.woff") format("woff"), url("../fonts/open-sans-v20-latin_cyrillic-300.ttf") format("truetype"), url("../fonts/open-sans-v20-latin_cyrillic-300.svg#OpenSans") format("svg");
+    /* Legacy iOS */
+}
+
+
+/* open-sans-300italic - latin_cyrillic */
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 300;
+    src: url("../fonts/open-sans-v20-latin_cyrillic-300italic.eot");
+    /* IE9 Compat Modes */
+    src: local(""), url("../fonts/open-sans-v20-latin_cyrillic-300italic.eot?#iefix") format("embedded-opentype"), url("../fonts/open-sans-v20-latin_cyrillic-300italic.woff2") format("woff2"), url("../fonts/open-sans-v20-latin_cyrillic-300italic.woff") format("woff"), url("../fonts/open-sans-v20-latin_cyrillic-300italic.ttf") format("truetype"), url("../fonts/open-sans-v20-latin_cyrillic-300italic.svg#OpenSans") format("svg");
+    /* Legacy iOS */
+}
+
+
+/* open-sans-regular - latin_cyrillic */
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/open-sans-v20-latin_cyrillic-regular.eot");
+    /* IE9 Compat Modes */
+    src: local(""), url("../fonts/open-sans-v20-latin_cyrillic-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/open-sans-v20-latin_cyrillic-regular.woff2") format("woff2"), url("../fonts/open-sans-v20-latin_cyrillic-regular.woff") format("woff"), url("../fonts/open-sans-v20-latin_cyrillic-regular.ttf") format("truetype"), url("../fonts/open-sans-v20-latin_cyrillic-regular.svg#OpenSans") format("svg");
+    /* Legacy iOS */
+}
+
+
+/* open-sans-italic - latin_cyrillic */
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 400;
+    src: url("../fonts/open-sans-v20-latin_cyrillic-italic.eot");
+    /* IE9 Compat Modes */
+    src: local(""), url("../fonts/open-sans-v20-latin_cyrillic-italic.eot?#iefix") format("embedded-opentype"), url("../fonts/open-sans-v20-latin_cyrillic-italic.woff2") format("woff2"), url("../fonts/open-sans-v20-latin_cyrillic-italic.woff") format("woff"), url("../fonts/open-sans-v20-latin_cyrillic-italic.ttf") format("truetype"), url("../fonts/open-sans-v20-latin_cyrillic-italic.svg#OpenSans") format("svg");
+    /* Legacy iOS */
+}
+
+
+/* open-sans-600 - latin_cyrillic */
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    src: url("../fonts/open-sans-v20-latin_cyrillic-600.eot");
+    /* IE9 Compat Modes */
+    src: local(""), url("../fonts/open-sans-v20-latin_cyrillic-600.eot?#iefix") format("embedded-opentype"), url("../fonts/open-sans-v20-latin_cyrillic-600.woff2") format("woff2"), url("../fonts/open-sans-v20-latin_cyrillic-600.woff") format("woff"), url("../fonts/open-sans-v20-latin_cyrillic-600.ttf") format("truetype"), url("../fonts/open-sans-v20-latin_cyrillic-600.svg#OpenSans") format("svg");
+    /* Legacy iOS */
+}
+
+
+/* open-sans-600italic - latin_cyrillic */
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 600;
+    src: url("../fonts/open-sans-v20-latin_cyrillic-600italic.eot");
+    /* IE9 Compat Modes */
+    src: local(""), url("../fonts/open-sans-v20-latin_cyrillic-600italic.eot?#iefix") format("embedded-opentype"), url("../fonts/open-sans-v20-latin_cyrillic-600italic.woff2") format("woff2"), url("../fonts/open-sans-v20-latin_cyrillic-600italic.woff") format("woff"), url("../fonts/open-sans-v20-latin_cyrillic-600italic.ttf") format("truetype"), url("../fonts/open-sans-v20-latin_cyrillic-600italic.svg#OpenSans") format("svg");
+    /* Legacy iOS */
+}
+
+
+/* open-sans-700 - latin_cyrillic */
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: url("../fonts/open-sans-v20-latin_cyrillic-700.eot");
+    /* IE9 Compat Modes */
+    src: local(""), url("../fonts/open-sans-v20-latin_cyrillic-700.eot?#iefix") format("embedded-opentype"), url("../fonts/open-sans-v20-latin_cyrillic-700.woff2") format("woff2"), url("../fonts/open-sans-v20-latin_cyrillic-700.woff") format("woff"), url("../fonts/open-sans-v20-latin_cyrillic-700.ttf") format("truetype"), url("../fonts/open-sans-v20-latin_cyrillic-700.svg#OpenSans") format("svg");
+    /* Legacy iOS */
+}
+
+
+/* open-sans-700italic - latin_cyrillic */
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 700;
+    src: url("../fonts/open-sans-v20-latin_cyrillic-700italic.eot");
+    /* IE9 Compat Modes */
+    src: local(""), url("../fonts/open-sans-v20-latin_cyrillic-700italic.eot?#iefix") format("embedded-opentype"), url("../fonts/open-sans-v20-latin_cyrillic-700italic.woff2") format("woff2"), url("../fonts/open-sans-v20-latin_cyrillic-700italic.woff") format("woff"), url("../fonts/open-sans-v20-latin_cyrillic-700italic.ttf") format("truetype"), url("../fonts/open-sans-v20-latin_cyrillic-700italic.svg#OpenSans") format("svg");
+    /* Legacy iOS */
+}
+
+
+/* open-sans-800 - latin_cyrillic */
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 800;
+    src: url("../fonts/open-sans-v20-latin_cyrillic-800.eot");
+    /* IE9 Compat Modes */
+    src: local(""), url("../fonts/open-sans-v20-latin_cyrillic-800.eot?#iefix") format("embedded-opentype"), url("../fonts/open-sans-v20-latin_cyrillic-800.woff2") format("woff2"), url("../fonts/open-sans-v20-latin_cyrillic-800.woff") format("woff"), url("../fonts/open-sans-v20-latin_cyrillic-800.ttf") format("truetype"), url("../fonts/open-sans-v20-latin_cyrillic-800.svg#OpenSans") format("svg");
+    /* Legacy iOS */
+}
+
+
+/* open-sans-800italic - latin_cyrillic */
+
+@font-face {
+    font-family: 'Open Sans';
+    font-style: italic;
+    font-weight: 800;
+    src: url("../fonts/open-sans-v20-latin_cyrillic-800italic.eot");
+    /* IE9 Compat Modes */
+    src: local(""), url("../fonts/open-sans-v20-latin_cyrillic-800italic.eot?#iefix") format("embedded-opentype"), url("../fonts/open-sans-v20-latin_cyrillic-800italic.woff2") format("woff2"), url("../fonts/open-sans-v20-latin_cyrillic-800italic.woff") format("woff"), url("../fonts/open-sans-v20-latin_cyrillic-800italic.ttf") format("truetype"), url("../fonts/open-sans-v20-latin_cyrillic-800italic.svg#OpenSans") format("svg");
+    /* Legacy iOS */
+}
+
+
+/* >>>>>>Основные стили (границы, цвет, шрифт)<<<<<< */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    color: rgb(114, 118, 121);
+    background-color: rgb(205, 212, 202);
+    margin-bottom: 150px;
+    font-family: "Open Sans", sans-serif;
+}
+
+body div {
+    margin: 3px;
+    background-color: #fff;
+    border-radius: 7px;
+}
+
+h4 {
+    margin-bottom: 1px;
+}
+
+p {
+    margin: 0px;
+    font-size: 15px;
+}
+
+
+/*--->>> Стилизация для header <<<---*/
+
+.nav_main .nav_top_main {
+    color: black;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    margin: 1px;
+    padding: 0;
+    list-style: none;
+    /* убираем маркеры */
+    border-radius: 5px 5px 0 0;
+}
+
+.nav_main .nav_bottom_main {
+    color: black;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    margin: 1px;
+    padding: 0;
+    list-style: none;
+    /* убираем маркеры */
+    border-radius: 0 0 5px 5px;
+}
+
+
+/*
+.nav_main .logo_phone {
+  font-family: $font_opensans;
+  font-weight: 400;
+  font-size: 14px;
+  display: flex;
+  list-style: none;
+  align-items: center;
+  justify-content: space-between;
+}
+*/
+
+.nav_top_main a {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    display: flex;
+    padding: 10px 10px;
+    text-decoration: none;
+    /* убираем ссылку */
+    color: #737476;
+}
+
+.nav_bottom_main a {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    display: flex;
+    padding: 10px 10px;
+    text-decoration: none;
+    /* убираем ссылку */
+    color: #737476;
+}
+
+.nav_top_main a:hover {
+    height: 100%;
+    box-shadow: 0 0 30px #21a038;
+    background-color: #53b374;
+    transition: 1s;
+    /* время на взаимодействие при наведении */
+    border-radius: 5px;
+}
+
+.nav_bottom_main a:hover {
+    height: 100%;
+    box-shadow: 0 0 30px #21a038;
+    background-color: #53b374;
+    transition: 1s;
+    /* время на взаимодействие при наведении */
+    border-radius: 5px;
+}
+
+
+/*-->>>>> Стилизация для шагов по ипотеке histori <<<<<--*/
+
+.histori {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 1px;
+    grid-auto-rows: 50px;
+    grid-template-areas: "a b c d";
+    align-items: stretch;
+    background-color: rgb(205, 212, 202);
+}
+
+.item1 {
+    margin: 0px;
+    grid-area: a;
+    text-align: center;
+    background-color: rgb(151, 201, 153);
+    padding: 5px;
+    border: 0.5px solid rgb(187, 236, 210)
+}
+
+.item2 {
+    grid-area: b;
+    text-align: center;
+    margin: 0px;
+    padding: 5px;
+    background-color: rgb(98, 230, 105);
+    border: 0.5px solid rgb(187, 236, 210)
+}
+
+.item3 {
+    grid-area: c;
+    text-align: center;
+    margin: 0px;
+    padding: 5px;
+    background-color: rgb(201, 247, 202);
+    border: 0.5px solid rgb(187, 236, 210)
+}
+
+.item4 {
+    grid-area: d;
+    text-align: center;
+    margin: 0px;
+    padding: 5px;
+    border: 0.5px solid rgb(187, 236, 210)
+}
+
+.center {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: 250px;
+    grid-template-areas: "a a b";
+    align-items: stretch;
+    background-color: rgb(205, 212, 202);
+    border: none;
+    height: 40em;
+}
+
+.left {
+    grid-area: a;
+    height: 39rem;
+}
+
+.right {
+    grid-area: b;
+    height: 39rem;
+}
+
+
+/*--->>>Одобренные парметры правая колонка<<<---*/
+
+.info {
+    height: 99%;
+    text-align: left;
+    margin-left: 25px;
+    border: none;
+    overflow: visible;
+}
+
+.info div {
+    text-align: center;
+}
+
+table {
+    border-spacing: 7px 11px;
+    font-size: 14px;
+    text-align: left;
+}
+
+table td {
+    width: 100%;
+    height: 100%;
+}
+
+.calc {
+    margin-top: 7px;
+    padding: 3em;
+    height: 7rem;
+    border: 0.5px solid rgb(187, 236, 210)
+}
+
+.calc:hover {
+    box-shadow: 0 0 30px #21a038;
+}
+
+
+/*--->>>Информация левая колонка<<<---*/
+
+.NextStep div {
+    display: inline-block;
+}
+
+.NextStep {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: 50px;
+    grid-template-areas: "a b";
+    align-items: stretch;
+    border: none;
+}
+
+.Acolumn {
+    grid-area: a;
+    height: 25rem;
+    border: 0.5px solid rgb(187, 236, 210)
+}
+
+.Bcolumn {
+    grid-area: b;
+    height: 25rem;
+    border: 0.5px solid rgb(187, 236, 210)
+}
+
+.Acolumn:hover,
+.Bcolumn:hover {
+    box-shadow: 0 0 30px #21a038;
+}
+
+.search {
+    background-image: url(..//img/search.jpg);
+    width: 100%;
+    height: 19rem;
+    margin: 0;
+    margin-bottom: 2rem;
+    background-size: cover;
+}
+
+.found {
+    background-image: url(..//img/found.jpeg);
+    width: 100%;
+    height: 19rem;
+    margin: 0;
+    margin-bottom: 2rem;
+    background-size: cover;
+}
+
+.p_column {
+    font-size: 1.5em;
+}
+
+.right div:last-child {
+    height: 150px;
+}
+
+
+/*--->>>Стилизация для services<<<---*/
+
+.services div {
+    padding: 1rem;
+}
+
+.services_list {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.services_item {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 20px 20px;
+    text-decoration: none;
+    /* убираем ссылку */
+    color: #737476;
+    border: 0.5px solid rgb(187, 236, 210)
+}
+
+.services_item a {
+    text-decoration: none;
+    color: #737476;
+}
+
+.services_item:hover {
+    height: 100%;
+    box-shadow: 0 0 30px #21a038;
+    background-color: #53b374;
+    transition: 1s;
+    /* время на взаимодействие при наведении */
+    border-radius: 5px;
+}
+
+
+/*--->>>Стилизация для блока сопровождение ипотеки<<<---*/
+
+.manage_mortgage {
+    height: 270px;
+}
+
+.comfort li {
+    text-align: left;
+    list-style-type: none;
+}
+
+.comfort_p {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+
+/* Стилизация nav_footer */
+
+.nav_footer {
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.nav_footer .nav {
+    color: black;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    /* убираем маркеры */
+}
+
+.nav_main .logo_phone {
+    font-family: "Open Sans", sans-serif;
+    /* чуть позже подключу шрифты */
+    font-weight: 400;
+    font-size: 14px;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nav a {
+    font-family: "Open Sans", sans-serif;
+    /* чуть позже подключу шрифты */
+    font-weight: 400;
+    font-size: 14px;
+    display: flex;
+    padding: 33px 25px;
+    text-decoration: none;
+    color: black;
+}
+
+
+/*-->>>>> Зафиксированная строка со звонком менеджеру <<<<<--*/
+
+.fix {
+    position: fixed;
+    z-index: 999;
+    width: 99%;
+    padding: 0px;
+    bottom: 1px;
+    border: none;
+    background-color: rgb(205, 212, 202);
+}
+
+.message {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 1px;
+    grid-auto-rows: 45px;
+    grid-template-areas: "a b c";
+    align-items: stretch;
+    border: none;
+    background-color: rgb(205, 212, 202);
+}
+
+.message a {
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 3px;
+    background: rgb(121, 223, 169);
+    box-shadow: 0 -3px rgb(104, 235, 169) inset;
+    transition: 0.2s;
+    border: 2px solid rgb(46, 156, 61);
+}
+
+.message a:hover {
+    background: rgb(5, 158, 82);
+}
+
+.message a:active {
+    background: rgb(48, 95, 71);
+    box-shadow: 0 3px rgb(37, 80, 59) inset;
+}
+
+.button_message1 {
+    padding-top: 15px;
+    margin: 0px;
+    grid-area: a;
+    text-align: center;
+}
+
+.button_message1:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.button_message2 {
+    padding-top: 15px;
+    grid-area: b;
+    text-align: center;
+    margin: 0px;
+}
+
+.button_message2:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.button_message3 {
+    padding-top: 15px;
+    grid-area: c;
+    text-align: center;
+    margin: 0px;
+}
+
+.button_message3:hover {
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+
+/*-->>>>>стилизация кнопок class - button<<<<<--*/
+
+.button {
+    color: rgb(16, 148, 11);
+    font-weight: 700;
+    box-shadow: 0 -3px rgb(104, 235, 169) inset;
+    transition: 0.2s;
+    max-width: 145px;
+}
+
+.button:hover {
+    color: rgb(74, 221, 148);
+}
+
+.button_non {
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 15px 40px;
+    border-radius: 3px;
+    background: rgb(51, 156, 100);
+    box-shadow: 0 -3px rgb(104, 235, 169) inset;
+    transition: 0.2s;
+    overflow: hidden;
+}
+
+.button_non:hover {
+    background: rgb(60, 199, 129);
+}
+
+.button_non:active {
+    background: rgb(96, 189, 141);
+    box-shadow: 0 3px rgb(37, 80, 59) inset;
+}
+
+
+/*--->>>Стилизация для footer<<<---*/
+
+.nav_footer .nav_top_footer {
+    border-radius: 5px;
+    color: black;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    margin: 1px;
+    padding: 0;
+    list-style: none;
+    /* убираем маркеры */
+    border-radius: 5px 5px 0 0;
+}
+
+.nav_top_footer a {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    display: flex;
+    padding: 20px 20px;
+    text-decoration: none;
+    color: #737476;
+}
+
+.nav_bottom_footer a {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    display: flex;
+    padding: 20px 20px;
+    text-decoration: none;
+    color: #737476;
+}
+
+.logo {
+    margin-right: auto;
+}
+
+.phone {
+    margin-left: auto;
+}
+
+.nav_footer .nav_bottom_footer {
+    border-radius: 5px;
+    color: black;
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    margin: 1px;
+    padding: 0;
+    list-style: none;
+    /* убираем маркеры */
+    border-radius: 0 0 5px 5px;
+}
+
+.nav_bottom_footer a {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    display: flex;
+    padding: 20px 20px;
+    text-decoration: none;
+    color: #737476;
+}
+
+.nav_bottom_footer a {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    display: flex;
+    padding: 20px 20px;
+    text-decoration: none;
+    color: #737476;
+}
+
+
+/* Стилизация наведения курсора */
+
+.nav_top_footer a:hover {
+    height: 100%;
+    box-shadow: 0 0 30px #21a038;
+    background-color: #53b374;
+    transition: 1s;
+    /* время на взаимодействие при наведении */
+    border-radius: 5px;
+}
+
+.nav_bottom_footer .logo:hover,
+.nav_bottom_footer .phone:hover {
+    height: 100%;
+    background-color: #53b374;
+    box-shadow: 0 0 30px #21a038;
+    transition: 1s;
+    /* время на взаимодействие при наведении */
+    border-radius: 5px;
+}
+
+
+/*
+.nav_footer .nav_bottom_under {
+  border-radius: 0 0 5px 5px; 
+  color: $nav_font_gray;
+  background-color: $white_color;
+  display: flex;
+  justify-content: center;
+  margin: 1px;
+  padding: 0;
+  list-style: none;
+  
+}
+
+.nav_bottom_under_list {
+  
+}
+
+.nav_bottom_under_item {
+  display: flex;
+  justify-content: space-between;
+  color: $nav_font_gray;
+  margin: auto;
+}
+
+.nav_bottom_logo a {
+  font-size: 14px;
+  font-weight: 600;
+  color: $nav_font_gray;
+  text-align: center;
+  text-decoration: none;
+  margin: auto;
+  align-items: center;
+}
+
+.nav_bottom_policy p {
+  text-align: center;
+  margin: auto;
+  font-weight: 600;
+}
+
+.nav_bottom_social a {
+  font-size: 14px;
+  font-weight: 600;
+  color: $nav_font_gray;
+  list-style: none;
+  margin: auto;
+  padding-left: 0;
+  text-decoration: none;
+}
+*/
+
+.connect_button {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-left: 0px;
+    position: fixed;
+    bottom: 40px;
+    right: 40px;
+    z-index: 800;
+    width: 100%;
+}
+
+.connect_message {
+    background-color: gainsboro;
+}
+
+.connect_add {
+    background-color: gainsboro;
+}
+
+.box {
+    width: 100%;
+    margin: 0 auto;
+    background-color: gainsboro;
+    position: relative;
+    z-index: 801;
+}
